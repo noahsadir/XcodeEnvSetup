@@ -50,6 +50,7 @@
 		FFA73F332C87BF6B00631D21 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		FFA73F342C87BF6C00631D21 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = SOURCE_ROOT; };
 		FFA73F372C87BF8400631D21 /* noahsadir.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = noahsadir.md; sourceTree = "<group>"; };
+		FFA73F382C87D20F00631D21 /* testfile.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = testfile.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +108,7 @@
 				FFA73F342C87BF6C00631D21 /* LICENSE */,
 				FFA73F332C87BF6B00631D21 /* README.md */,
 				FFA73F372C87BF8400631D21 /* noahsadir.md */,
+				FFA73F382C87D20F00631D21 /* testfile.md */,
 				FFA73F0F2C87BF4D00631D21 /* Preview Content */,
 			);
 			path = XcodeEnvSetup;
