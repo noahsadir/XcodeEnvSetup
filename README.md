@@ -1,6 +1,8 @@
 # Xcode Environment Setup
 
 1. Clone this project using Xcode
+   - In Github, go to `Code -> HTTPS -> Copy URL`
+   - Open Xcode and select option to clone a Git repository
 
 2. Compile and run the project using iOS Simulator (any of them)
 
