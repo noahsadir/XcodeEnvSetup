@@ -36,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DBD3BA412C87D1E100916079 /* jadacrockett.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = jadacrockett.md; sourceTree = "<group>"; };
 		FFA73F052C87BF4C00631D21 /* XcodeEnvSetup.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XcodeEnvSetup.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFA73F082C87BF4C00631D21 /* XcodeEnvSetupApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XcodeEnvSetupApp.swift; sourceTree = "<group>"; };
 		FFA73F0A2C87BF4C00631D21 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -107,6 +108,7 @@
 				FFA73F342C87BF6C00631D21 /* LICENSE */,
 				FFA73F332C87BF6B00631D21 /* README.md */,
 				FFA73F372C87BF8400631D21 /* noahsadir.md */,
+				DBD3BA412C87D1E100916079 /* jadacrockett.md */,
 				FFA73F0F2C87BF4D00631D21 /* Preview Content */,
 			);
 			path = XcodeEnvSetup;
