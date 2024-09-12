@@ -56,7 +56,7 @@
 		FFA73F262C87BF4E00631D21 /* XcodeEnvSetupUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XcodeEnvSetupUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		FFA73F332C87BF6B00631D21 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		FFA73F342C87BF6C00631D21 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = SOURCE_ROOT; };
-		FFA73F372C87BF8400631D21 /* noahsadir.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = noahsadir.md; sourceTree = "<group>"; };
+		FFA73F372C87BF8400631D21 /* savvydusad.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = savvydusad.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +113,7 @@
 				FFA73F0E2C87BF4D00631D21 /* XcodeEnvSetup.entitlements */,
 				FFA73F342C87BF6C00631D21 /* LICENSE */,
 				FFA73F332C87BF6B00631D21 /* README.md */,
+				FFA73F372C87BF8400631D21 /* savvydusad.md */,
 				FFA73F372C87BF8400631D21 /* noahsadir.md */,
 				17F9A2282C87D21600A48F5B /* sanjanapolavarapu.md */,
 				372C9AEA2C87D22700B8E5FC /* rayandas.md */,
@@ -463,7 +464,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.4;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = club.gtios.XcodeEnvSetup;
+				PRODUCT_BUNDLE_IDENTIFIER = com.savvy.apple;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
@@ -501,7 +502,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.4;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = club.gtios.XcodeEnvSetup;
+				PRODUCT_BUNDLE_IDENTIFIER = com.savvy.apple;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
