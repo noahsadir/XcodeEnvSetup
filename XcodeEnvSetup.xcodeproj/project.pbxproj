@@ -36,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		372C9AEA2C87D22700B8E5FC /* rayandas.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = rayandas.md; sourceTree = "<group>"; };
 		479BD5CB2C88B349000E7BF1 /* hadi.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = hadi.md; sourceTree = "<group>"; };
 		849B77462C9365710086AB21 /* xingliu.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = xingliu.md; sourceTree = "<group>"; };
 		7C0C08F12C910F340003B132 /* andreyfernandez.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = andreyfernandez.md; sourceTree = "<group>"; };
@@ -111,6 +112,7 @@
 				FFA73F342C87BF6C00631D21 /* LICENSE */,
 				FFA73F332C87BF6B00631D21 /* README.md */,
 				FFA73F372C87BF8400631D21 /* noahsadir.md */,
+				372C9AEA2C87D22700B8E5FC /* rayandas.md */,
 				DBD3BA412C87D1E100916079 /* jadacrockett.md */,
 				FFA73F0F2C87BF4D00631D21 /* Preview Content */,
 				479BD5CB2C88B349000E7BF1 /* hadi.md */,
