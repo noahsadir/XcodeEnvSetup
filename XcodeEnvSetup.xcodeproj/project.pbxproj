@@ -37,6 +37,8 @@
 
 /* Begin PBXFileReference section */
 		849B77462C9365710086AB21 /* xingliu.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = xingliu.md; sourceTree = "<group>"; };
+		7C0C08F12C910F340003B132 /* andreyfernandez.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = andreyfernandez.md; sourceTree = "<group>"; };
+		DBD3BA412C87D1E100916079 /* jadacrockett.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = jadacrockett.md; sourceTree = "<group>"; };
 		FFA73F052C87BF4C00631D21 /* XcodeEnvSetup.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XcodeEnvSetup.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFA73F082C87BF4C00631D21 /* XcodeEnvSetupApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XcodeEnvSetupApp.swift; sourceTree = "<group>"; };
 		FFA73F0A2C87BF4C00631D21 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -108,8 +110,10 @@
 				FFA73F342C87BF6C00631D21 /* LICENSE */,
 				FFA73F332C87BF6B00631D21 /* README.md */,
 				FFA73F372C87BF8400631D21 /* noahsadir.md */,
+				DBD3BA412C87D1E100916079 /* jadacrockett.md */,
 				FFA73F0F2C87BF4D00631D21 /* Preview Content */,
 				849B77462C9365710086AB21 /* xingliu.md */,
+				7C0C08F12C910F340003B132 /* andreyfernandez.md */,
 			);
 			path = XcodeEnvSetup;
 			sourceTree = "<group>";
@@ -432,7 +436,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"XcodeEnvSetup/Preview Content\"";
-				DEVELOPMENT_TEAM = Y7NL9XLUR5;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -470,7 +474,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"XcodeEnvSetup/Preview Content\"";
-				DEVELOPMENT_TEAM = Y7NL9XLUR5;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
