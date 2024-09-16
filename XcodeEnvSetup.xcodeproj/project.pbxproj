@@ -36,13 +36,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A392769E2C8A560100CA47E2 /* piperwright.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = piperwright.md; sourceTree = SOURCE_ROOT; };
 		17F9A2282C87D21600A48F5B /* sanjanapolavarapu.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = sanjanapolavarapu.md; sourceTree = "<group>"; };
-		BE544A382C8A614F00B424A1 /* saadbahlouli.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = saadbahlouli.md; sourceTree = "<group>"; };
 		372C9AEA2C87D22700B8E5FC /* rayandas.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = rayandas.md; sourceTree = "<group>"; };
 		479BD5CB2C88B349000E7BF1 /* hadi.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = hadi.md; sourceTree = "<group>"; };
-		849B77462C9365710086AB21 /* xingliu.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = xingliu.md; sourceTree = "<group>"; };
+		71DFA2E32C97958D000E5D4D /* stevenha.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = stevenha.md; sourceTree = "<group>"; };
 		7C0C08F12C910F340003B132 /* andreyfernandez.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = andreyfernandez.md; sourceTree = "<group>"; };
+		849B77462C9365710086AB21 /* xingliu.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = xingliu.md; sourceTree = "<group>"; };
+		A392769E2C8A560100CA47E2 /* piperwright.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = piperwright.md; sourceTree = SOURCE_ROOT; };
+		BE544A382C8A614F00B424A1 /* saadbahlouli.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = saadbahlouli.md; sourceTree = "<group>"; };
 		DBD3BA412C87D1E100916079 /* jadacrockett.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = jadacrockett.md; sourceTree = "<group>"; };
 		FFA73F052C87BF4C00631D21 /* XcodeEnvSetup.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XcodeEnvSetup.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFA73F082C87BF4C00631D21 /* XcodeEnvSetupApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XcodeEnvSetupApp.swift; sourceTree = "<group>"; };
@@ -115,7 +116,7 @@
 				FFA73F342C87BF6C00631D21 /* LICENSE */,
 				FFA73F332C87BF6B00631D21 /* README.md */,
 				FFA73F372C87BF8400631D21 /* savvydusad.md */,
-				FFA73F372C87BF8400631D21 /* noahsadir.md */,
+				71DFA2E32C97958D000E5D4D /* stevenha.md */,
 				17F9A2282C87D21600A48F5B /* sanjanapolavarapu.md */,
 				372C9AEA2C87D22700B8E5FC /* rayandas.md */,
 				DBD3BA412C87D1E100916079 /* jadacrockett.md */,
@@ -124,7 +125,7 @@
 				FFA73F0F2C87BF4D00631D21 /* Preview Content */,
 				479BD5CB2C88B349000E7BF1 /* hadi.md */,
 				849B77462C9365710086AB21 /* xingliu.md */,
-				7C0C08F12C910F340003B132 /* andreyfernandez.md */
+				7C0C08F12C910F340003B132 /* andreyfernandez.md */,
 			);
 			path = XcodeEnvSetup;
 			sourceTree = "<group>";
