@@ -44,6 +44,7 @@
 		849B77462C9365710086AB21 /* xingliu.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = xingliu.md; sourceTree = "<group>"; };
 		A392769E2C8A560100CA47E2 /* piperwright.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = piperwright.md; sourceTree = SOURCE_ROOT; };
 		BE544A382C8A614F00B424A1 /* saadbahlouli.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = saadbahlouli.md; sourceTree = "<group>"; };
+		DBA196902C94DB1F009F9D0B /* kimberlytsung.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = kimberlytsung.md; sourceTree = "<group>"; };
 		DBD3BA412C87D1E100916079 /* jadacrockett.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = jadacrockett.md; sourceTree = "<group>"; };
 		FFA73F052C87BF4C00631D21 /* XcodeEnvSetup.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XcodeEnvSetup.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFA73F082C87BF4C00631D21 /* XcodeEnvSetupApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XcodeEnvSetupApp.swift; sourceTree = "<group>"; };
@@ -126,6 +127,7 @@
 				479BD5CB2C88B349000E7BF1 /* hadi.md */,
 				849B77462C9365710086AB21 /* xingliu.md */,
 				7C0C08F12C910F340003B132 /* andreyfernandez.md */,
+				DBA196902C94DB1F009F9D0B /* kimberlytsung.md */,
 			);
 			path = XcodeEnvSetup;
 			sourceTree = "<group>";
